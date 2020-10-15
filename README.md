@@ -2,6 +2,7 @@
 
 
 Input
+
 The full path to the names file will be specified as a command line argument. The names file will contain a single line of quoted, comma-separated names. A small sample of data can be found at the end of this document and a full sample file (names.txt) is attached.
 
 processing:
